@@ -1,0 +1,20 @@
+[
+   {
+      "question": "<span style='display: inline-block;'>$$ \\begin{bmatrix} 16 & -7 \\\\ -7 & 16 \\end{bmatrix} $$</span>, Find the eigen values.",
+      "qid": 1,
+      "option_a": "<span style='display: inline-block;'>$$ λ_1 = 20 \\quad λ_2 = 11$$</span>",
+      "option_b": "<span style='display: inline-block;'>$$ λ_1 = 23 \\quad λ_2 = 9$$</span>",
+      "option_c": "<span style='display: inline-block;'>$$ λ_1 = 17 \\quad λ_2 = 6$$</span>",
+      "option_d": "<span style='display: inline-block;'>$$ λ_1 = 19 \\quad λ_2 = 14$$</span>",
+      "correct_option": "b"
+   },
+   {
+      "question": "<span style='display: inline-block;'>$$ \\begin{bmatrix} 21 & -3 \\\\ -3 & 21 \\end{bmatrix} $$</span>",
+      "qid": 2,
+      "option_a": "<span style='display: inline-block;'>$$ λ_1 = 26 \\quad λ_2 = 9$$</span>",
+      "option_b": "<span style='display: inline-block;'>$$ λ_1 = 12 \\quad λ_2 = 11$$</span>",
+      "option_c": "<span style='display: inline-block;'>$$ λ_1 = 24 \\quad λ_2 = 18$$</span>",
+      "option_d": "<span style='display: inline-block;'>$$ λ_1 = 18 \\quad λ_2 = 7$$</span>",
+      "correct_option": "c"
+   }
+]
